@@ -4,7 +4,7 @@ A modern, responsive personal website built with React, TypeScript, and Tailwind
 
 ## Live Demo
 
-🌐 **Live Website**: [https://szu-yun-ko.github.io/szu-yun-ko.github.io](https://szu-yun-ko.github.io/szu-yun-ko.github.io)
+🌐 **Live Website**: [https://szu-yun-ko.github.io](https://szu-yun-ko.github.io)
 
 ## Features
 
