@@ -1,19 +1,8 @@
 # Personal Website
 
-A modern, responsive personal website built with React, TypeScript, and Tailwind CSS.
-
 ## Live Demo
 
 🌐 **Live Website**: [https://szu-yun-ko.github.io](https://szu-yun-ko.github.io)
-
-## Features
-
-- **Responsive Design**: Mobile-first approach with Tailwind CSS
-- **Modern Stack**: React 18, TypeScript, Vite
-- **Interactive Components**: Image galleries, navigation, routing
-- **Professional Layout**: Clean, modern design with custom fonts
-- **Project Showcase**: Detailed project pages with screenshots
-- **Event Timeline**: Academic and research event history
 
 ## Tech Stack
 
