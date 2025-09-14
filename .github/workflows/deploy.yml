@@ -33,6 +33,10 @@ jobs:
       - name: Build
         run: npm run build
         
+      - name: Fix client-side routing for GitHub Pages
+        run: |
+          cp dist/index.html dist/404.html
+        
       - name: Setup Pages
         uses: actions/configure-pages@v4
         
